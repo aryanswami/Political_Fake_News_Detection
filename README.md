@@ -1,5 +1,5 @@
 # Political_Fake_News_Detection
-Created a Political Fake news detection system using Fact-checking and Bias detection.
+I have created a Political Fake news detection system using Fact-checking and Bias detection.
 
 This project investigates the proposal of a fake news detection system utilizing machine and deep learning approaches. 
 
